@@ -1,0 +1,589 @@
+[13-May-2022 09:30:57 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:30:57 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:30:57 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:32:57 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:32:57 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:32:57 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:34:04 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:34:04 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:34:04 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:35:33 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:35:33 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:35:33 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:36:11 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:36:11 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:36:11 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:46:16 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:46:16 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 09:46:16 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:08 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:08 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:08 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:08 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:58:16 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:16 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:16 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:16 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:58:19 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:19 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:19 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:19 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:58:53 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:53 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:53 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:53 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:58:54 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:54 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:54 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:54 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:58:54 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:54 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:54 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:54 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:58:55 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:55 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:55 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:55 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:58:56 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:56 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:56 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:58:56 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:59:07 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:07 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:07 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:07 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:59:08 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:08 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:08 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:08 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:59:09 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:09 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:09 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:09 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:59:09 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:09 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:09 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:09 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 10:59:10 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:10 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:10 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 10:59:10 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 11:00:46 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 11:00:46 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 11:00:46 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 11:00:46 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[13-May-2022 11:00:49 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 11:00:49 America/Montevideo] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 11:00:49 America/Montevideo] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 2
+[13-May-2022 11:00:49 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 24
+[16-May-2022 09:20:08 America/Montevideo] PHP Warning:  include(/emviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:20:08 America/Montevideo] PHP Warning:  include(/emviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:20:08 America/Montevideo] PHP Warning:  include(): Failed opening '/emviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:34 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:34 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:34 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:37 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:37 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:37 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:38 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:38 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:39 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:39 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:41:39 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:42:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:42:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:42:20 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:45:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:45:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:45:38 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:45:54 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 66
+[16-May-2022 09:47:17 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 66
+[16-May-2022 09:47:19 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:47:19 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:47:19 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:48:02 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:48:02 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:48:02 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:48:16 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 66
+[16-May-2022 09:52:05 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:52:05 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:52:05 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:55:37 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:55:37 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:55:37 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:55:51 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 67
+[16-May-2022 09:56:13 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:56:13 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 09:56:13 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:07:05 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 67
+[16-May-2022 10:10:22 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:10:22 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:10:22 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:10:31 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 67
+[16-May-2022 10:10:54 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:10:54 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:10:54 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:17:00 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 67
+[16-May-2022 10:18:28 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:18:28 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:18:28 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:20:31 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:20:31 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:20:31 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:20:44 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:20:44 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:20:44 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:20:56 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:23:45 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:23:47 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:23:47 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:23:47 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:24:53 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:24:53 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:24:53 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:25:02 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:25:02 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:25:02 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:25:34 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:25:34 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:25:34 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:26:34 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:26:34 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:26:34 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:37:57 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:37:57 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:37:57 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:39:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:39:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:39:20 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:42:58 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:42:58 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:42:58 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:42:58 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:43:10 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:43:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:43:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:43:20 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:43:32 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:43:44 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:43:44 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:43:44 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:46:05 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:46:05 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:46:05 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:46:17 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:49:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:49:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:49:38 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:49:46 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:49:50 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:49:50 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:49:50 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:52:57 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:52:57 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:52:57 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:53:17 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:56:46 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:56:46 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:56:46 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:57:24 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:57:24 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:57:24 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:58:06 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:58:06 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:58:06 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:59:15 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:59:15 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:59:15 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:59:32 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 10:59:40 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:59:40 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 10:59:40 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:01:06 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:01:06 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:01:06 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:01:23 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 11:01:25 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:01:25 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:01:25 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:03:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:03:20 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:03:20 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:03:38 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 11:04:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:04:38 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:04:38 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:15:49 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 11:15:56 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:15:56 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:15:56 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:19:51 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 11:35:51 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:35:51 America/Montevideo] PHP Warning:  include(/enviar.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:35:51 America/Montevideo] PHP Warning:  include(): Failed opening '/enviar.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 4
+[16-May-2022 11:36:13 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/enviar.php on line 54
+[16-May-2022 11:37:33 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:37:40 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:37:54 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:37:54 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:37:58 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:38:45 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:40:45 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:42:36 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:42:40 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:45:23 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:45:27 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 11:46:08 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[16-May-2022 12:04:14 America/Montevideo] PHP Warning:  require(get_table.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 165
+[16-May-2022 12:04:14 America/Montevideo] PHP Warning:  require(get_table.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 165
+[16-May-2022 12:04:14 America/Montevideo] PHP Fatal error:  require(): Failed opening required 'get_table.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 165
+[16-May-2022 12:04:22 America/Montevideo] PHP Warning:  require(get_table.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 165
+[16-May-2022 12:04:22 America/Montevideo] PHP Warning:  require(get_table.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 165
+[16-May-2022 12:04:22 America/Montevideo] PHP Fatal error:  require(): Failed opening required 'get_table.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 165
+[16-May-2022 14:08:54 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 102
+[17-May-2022 13:44:36 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/consulta.php:26
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php(4): include()
+#1 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/consulta.php on line 26
+[17-May-2022 13:46:36 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/consulta.php:26
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php(4): include()
+#1 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/consulta.php on line 26
+[17-May-2022 13:46:49 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/consulta.php:26
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php(4): include()
+#1 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/consulta.php on line 26
+[17-May-2022 14:56:01 America/Montevideo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 261
+[17-May-2022 14:56:03 America/Montevideo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/index.php on line 261
+[17-May-2022 15:06:19 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/set_rendimientos.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/set_rendimientos.php on line 16
+[17-May-2022 15:07:19 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/set_rendimientos.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/formularioEquiposFrio/formularioCarnes/set_rendimientos.php on line 16
+[19-May-2022 13:36:38 America/Montevideo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tisolici/public_html/auditoria/temp_recepcion/enviar.php on line 73
+[19-May-2022 13:36:42 America/Montevideo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tisolici/public_html/auditoria/temp_recepcion/enviar.php on line 73
+[19-May-2022 13:36:55 America/Montevideo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tisolici/public_html/auditoria/temp_recepcion/enviar.php on line 73
+[20-May-2022 11:09:28 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tisolici/public_html/auditoria/temp_recepcion/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 80
+[20-May-2022 11:18:18 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tisolici/public_html/auditoria/temp_recepcion/index.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 88
+[20-May-2022 12:04:11 America/Montevideo] PHP Warning:  require(../conexion_dir.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/temp_recepcion/usuario_consulta.php on line 2
+[20-May-2022 12:04:11 America/Montevideo] PHP Warning:  require(../conexion_dir.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/temp_recepcion/usuario_consulta.php on line 2
+[20-May-2022 12:04:11 America/Montevideo] PHP Fatal error:  require(): Failed opening required '../conexion_dir.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/temp_recepcion/usuario_consulta.php on line 2
+[20-May-2022 12:05:35 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tisolici/public_html/auditoria/temp_recepcion/index.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 94
+[20-May-2022 12:05:37 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[20-May-2022 12:07:12 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[20-May-2022 12:07:13 America/Montevideo] PHP Fatal error:  Cannot redeclare conectarse() (previously declared in /home/tisolici/public_html/auditoria/conexion.php:5) in /home/tisolici/public_html/auditoria/conexion.php on line 5
+[20-May-2022 12:07:57 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/usuario_consulta.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(33): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(174): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/usuario_consulta.php on line 10
+[20-May-2022 12:07:58 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/usuario_consulta.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(33): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(174): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/usuario_consulta.php on line 10
+[20-May-2022 12:10:09 America/Montevideo] PHP Warning:  require(funciones.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 11
+[20-May-2022 12:10:09 America/Montevideo] PHP Warning:  require(funciones.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 11
+[20-May-2022 12:10:09 America/Montevideo] PHP Fatal error:  require(): Failed opening required 'funciones.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 11
+[20-May-2022 12:10:52 America/Montevideo] PHP Warning:  require(funciones.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 11
+[20-May-2022 12:10:52 America/Montevideo] PHP Warning:  require(funciones.php): failed to open stream: No such file or directory in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 11
+[20-May-2022 12:10:52 America/Montevideo] PHP Fatal error:  require(): Failed opening required 'funciones.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tisolici/public_html/auditoria/temp_recepcion/index.php on line 11
+[20-May-2022 12:11:29 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(176): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:13:46 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(176): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:24:19 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(176): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:24:20 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(176): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:25:10 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(176): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:26:41 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(176): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:26:42 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(176): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:27:41 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(177): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:29:35 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(169): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:29:39 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(169): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:29:52 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(169): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:34:21 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(169): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:34:35 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(169): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:34:51 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:35:11 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:36:22 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:36:22 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:36:47 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:37:20 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:37:26 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:37:52 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:38:11 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:38:46 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:43:34 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:43:35 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:43:58 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:44:41 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php:10
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php(32): getUsuario('aa')
+#1 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include('/home/tisolici/...')
+#2 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/funciones.php on line 10
+[20-May-2022 12:48:41 America/Montevideo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php:22
+Stack trace:
+#0 /home/tisolici/public_html/auditoria/temp_recepcion/index.php(168): include()
+#1 {main}
+  thrown in /home/tisolici/public_html/auditoria/temp_recepcion/tabla.php on line 22
